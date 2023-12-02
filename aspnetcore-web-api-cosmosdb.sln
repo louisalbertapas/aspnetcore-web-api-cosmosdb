@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-web-api-cosmosdb", "aspnetcore-web-api-cosmosdb\aspnetcore-web-api-cosmosdb.csproj", "{616AA2C1-A861-4CD7-834B-8E24A6294573}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616AA2C1-A861-4CD7-834B-8E24A6294573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616AA2C1-A861-4CD7-834B-8E24A6294573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616AA2C1-A861-4CD7-834B-8E24A6294573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616AA2C1-A861-4CD7-834B-8E24A6294573}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4DD9352-0310-4A5D-9E0F-7758C7AF1A1D}
+	EndGlobalSection
+EndGlobal
